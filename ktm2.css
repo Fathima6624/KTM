@@ -1,0 +1,571 @@
+
+
+
+#nav1{
+
+   position: absolute;
+   z-index: 1000;
+   list-style-type: none;
+font-weight: bold;
+margin-top: -710px;
+color: white;
+font-size: large;
+float: left;
+
+
+}
+
+#nav2{
+
+   position: absolute;
+   z-index: 1000;
+   list-style-type: none;
+font-weight: bold;
+margin-top: -710px;
+color: white;
+font-size: large;
+margin-left: 1000px;
+
+}
+
+/* #Location{margin-left: 1100px;
+    margin-top: -300px;
+} */
+
+.model{float: left;
+padding: 11px;}
+
+#bg1{position: static;
+    background-attachment: fixed;
+z-index: 1;}
+
+
+.main{height: 100vh;
+width: 100%;}
+
+#nav{margin-top: -115px;}
+
+
+#ktmlogo{
+    
+   
+     margin-left: 1335px;
+    margin-top: -745px; 
+    position: absolute;
+   z-index: 1000;
+    
+}
+
+
+
+#section2{ border: 1px solid black;
+    background-color: black;
+    margin-top: 114px;
+    height: 120px;
+    width: 100%;
+    
+    
+}
+
+#section3{
+
+    border: 1px solid orangered;
+    background-color: orangered;
+    margin-top: -125px;
+    height: 2px;
+    width: 100%;
+}
+
+#blacksection{
+
+    position: absolute;
+   z-index: 1000;
+   color: white;
+   list-style-type: none;
+font-weight: bold;
+font-size: small;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.black{padding: 25px;
+padding-left: 70px;
+float: left;}
+
+
+
+#section4{
+
+    margin-top: 400px;
+    
+}
+
+#bike1{text-align: center;}
+#bike2{text-align: center;}
+#bike3{text-align: center;}
+
+#section5{margin-top: -600px;
+    position: absolute;
+   z-index: 1000;
+
+   font-size: 35px;
+   color:black;
+   margin-left: 460px;
+
+}
+
+
+#bikes{
+     margin-top: 360px;
+}
+
+#section6{margin-top: -550px;
+    position: absolute;
+   z-index: 1000;
+font-size: 35px;
+   color:black;
+   margin-left: 520px;}
+
+
+#middlesection{ position: absolute;
+   z-index: 1000;
+margin-top: -400px;
+margin-left: 350px;
+color: white;
+text-align: center;}
+
+.link{
+    
+    text-decoration: none;
+    font-weight: bold;
+    position: absolute;
+    margin-left:-90px ;
+    margin-top: 20px;
+    color: white;
+}
+
+.box{border: 1px solid orangered;
+height: 60px;
+width: 350px;
+margin-left:20px ;
+background-color: rgba(255, 68, 0, 0.83);
+margin-top: 15px;}
+
+#section7{
+
+    margin: 13px;
+    margin-top: 160px;
+ position: absolute;
+   z-index: 1000;
+   margin-left: 20px;
+
+    }
+
+.text{margin-top: 20px;
+letter-spacing: 1px;
+ position: absolute;
+   z-index: 1000;
+}   
+.text2{font-size: 25px;
+text-align: center;
+font-weight: bolder;
+line-height: 55px;
+}
+.text1{font-size: 15px;
+text-align: center;
+}
+
+#section8{
+    margin-top:350px ;
+    position: absolute;
+   z-index: 1000;
+   
+}
+
+#line1{
+    font-size: 21px;
+    color: white;
+    font-weight: bold;
+     margin-left:1150px ;
+}
+
+#line2{
+    font-size: 60px;
+    color: white;
+    font-weight: bolder;
+     margin-left:535px ;
+     line-height: 100px;
+}
+
+#line3{
+    
+    color: white;
+  text-decoration: none;
+  margin-left:40px ;
+  font-size: 18px;
+  margin-top: 300px;
+  position: relative;
+  z-index: 1000;
+  
+  line-height: 50px;
+  padding: 10px;
+  padding-top: 25px;
+
+  
+  
+}
+
+#EXPLORE{border: 1px solid orangered;
+height: 70px;
+width: 220px;
+
+background-color: rgba(255, 68, 0, 0.936);
+margin-top: 15px;
+margin-left:1125px ;
+
+
+} 
+
+#section9{
+    margin-top: 800px;
+    margin-left: 0px;
+    position: relative;
+    z-index: 1000;
+    cursor: pointer;
+}
+
+
+#powerwear{margin-left: -50px;
+margin-top: -300px;
+text-align: center;
+font-weight: bold;
+color: white;}
+
+
+
+#powerparts{margin-left: -15px;
+margin-top: -300px;
+text-align: center;
+font-weight: bold;
+color:white;}
+
+#powerwear:hover{color: transparent;}
+#powerparts:hover{color: transparent;}
+
+
+
+
+#section10{
+    margin-top: 210px;
+    margin-left:30px ;
+}
+
+
+#section11{
+    margin-top:-400px ;
+    position: absolute;
+   z-index: 1000;
+   
+}
+
+#one{
+    font-size: 21px;
+    color: white;
+    font-weight: bold;
+     margin-left:950px ;
+     
+}
+
+#two{
+    font-size: 60px;
+    color: white;
+    font-weight: bolder;
+     margin-left:825px ;
+     line-height: 100px;
+}
+
+
+#three{
+    
+    color: white;
+  text-decoration: none;
+  margin-left:30px ;
+  font-size: 18px;
+  margin-top: 1400px;
+  position: relative;
+  
+  line-height: 50px;
+  padding: 10px;
+  padding-top: 10px;
+  
+}
+
+#four{border: 1px solid orangered;
+height: 70px;
+width: 220px;
+
+background-color: rgb(255, 68, 0);
+margin-top: -55px;
+margin-left:1135px ;
+margin-top:-10px ;}
+
+
+
+#NEWS{font-size: 60px;
+    color:black;
+    font-weight: bolder;
+     margin-left:600px ;
+     line-height: 100px;
+    margin-top: 40px;}
+
+
+#section12{
+    margin-top:30px ;
+}
+
+.model:active{color: orangered;
+    background-color: black ;
+    height: 100vh;
+    width: 100vw;
+
+    
+}
+
+#india:active{color: orangered;}
+/* .location:hover{color: orangered;}
+
+
+.black:hover{
+color: orangered;
+} */
+
+.icon{
+  color: gray;
+  transition: color 0.5s ease;
+}
+
+#hello{color: white;
+text-decoration: none;}
+
+
+
+
+.hover:hover .icon{
+  color:orangered !important;
+}
+
+.box:hover{border: 1px solid orangered;
+background-color: white;
+transition: 0.5s;
+}
+
+.link:hover{color: orangered;}
+
+#three:hover{color: orangered;}
+#readmore:hover{color: orangered;}
+#read:hover{border: 1px solid orangered;
+background-color: transparent;
+transition: 0.5s;}
+
+#four:hover{border: 1px solid orangered;
+background-color: transparent;
+transition: 0.5s;}
+
+#read:hover #readmore{color: orangered;}
+#four:hover #three{color: orangered;}
+
+
+#line3:hover{color: orangered;}
+
+#EXPLORE:hover{border: 1px solid orangered;
+background-color: transparent;
+transition: 0.5s;
+}
+
+#EXPLORE:hover #line3{color: orangered;}
+
+.box:hover .link{
+color: orangered;}
+
+
+
+.date{
+
+    line-height: 50px;
+    font-weight: bold;
+}
+
+#BOARD1{text-decoration: none;
+color: black;
+font-size: 30px;
+font-weight: bold;
+line-height: 55px;}
+
+#p1{line-height: 35px;
+text-align: left;
+width: fit-content;
+font-size: large;
+}
+
+
+#BOARD2{text-decoration: none;
+color: black;
+font-size: 30px;
+font-weight: bold;
+line-height: 40px;
+
+}
+
+#para1{width: 450px;}
+#para2{width: 450px;
+}
+#p2{line-height: 35px;
+text-align: left;
+width: fit-content;
+font-size: large;
+}
+
+#para3{width: 450px;}
+#p3{line-height: 35px;
+text-align: left;
+width: fit-content;
+font-size: large;
+}
+#BOARD3{text-decoration: none;
+color: black;
+font-size: 30px;
+font-weight: bold;
+line-height: 40px;
+
+}
+
+
+#readmore{color:white;
+  text-decoration: none;
+  margin-left:55px ;
+  font-size: 19px;
+  position: absolute;
+  margin-top: 20px;
+  
+  }
+
+#section13{margin-top:100px ;}
+
+#read{border: 1px solid orangered;
+height: 70px;
+width: 220px;
+
+background-color: rgba(255, 68, 0, 0.915);
+margin-top: -55px;
+margin-left:650px ;
+}
+
+#NEWSLETTER{
+    margin-top: 100px;
+    margin-left: 500px;
+    font-weight: bold;
+    font-size: large;
+    
+}
+
+#sign{color:orangered;
+  text-decoration: none;
+
+margin-left:40px ;
+padding-top: 20px;
+font-weight: bold;
+position: absolute;
+z-index: 1000;
+
+}
+
+#sign:hover{color: white;}
+
+
+#signbox{
+    border: 1px solid orangered;
+height: 60px;
+width: 150px;
+
+
+margin-top: -60px;
+margin-left:790px ;
+position: absolute;
+z-index: 1;
+
+
+}
+
+#signbox:hover{background-color: rgba(255, 68, 0, 0.91);
+    border: 1px solid orangered;
+transition: 0.5s;
+}
+
+#signbox:hover #sign{color: white;
+}
+
+#section15{margin-top: 100px;
+color: gray;}
+
+#section16{text-align: center;
+margin-top: 50px;
+font-size: smaller;
+line-height: 25px;
+color: rgba(128, 128, 128, 0.912);
+padding-left: 400px;
+width: 750px;
+cursor: text;}
+
+
+/* .section18{background-color: black;
+width: 100%;
+height:900px ;
+margin-top: 60px;} */
+
+#section17{background-color: black;
+width: 100%;
+height: 600px;
+margin-top: 60px;}
+
+.head{padding-left: 20px;
+padding-top: 40px;}
+.list1{list-style-type: none;
+line-height: 35px;
+font-size: large;}
+
+#section17-5 {
+    color: white;
+
+    
+    
+}
+.mba{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+   
+}
+
+#section18{
+    color: rgba(128, 128, 128, 0.368);
+    margin-top: -80px;
+}
+
+
+#BOARD1:hover{color: orangered;}
+#BOARD2:hover{color: orangered;}
+#BOARD3:hover{color: orangered;}
+
+.h:hover{color: orangered!important;
+cursor: pointer;}
+
+#section19-1{font-size: small;
+color: grey;
+margin-top: 20px;
+margin-left: 120px;}
+
+#section19-2{font-size: large;
+color:rgba(255, 68, 0, 0.823);
+margin-top: 20px;
+padding-right: 80px;
+}
